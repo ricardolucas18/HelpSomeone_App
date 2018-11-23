@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Help Someone</string>
+    <string name="mainAct_InitSessionTitle_PT">Iniciar Sessão</string>
+    <string name="mainAct_EmailTitle_PT">E-mail</string>
+    <string name="mainAct_EmailBoxHint_PT">Introduza o seu email</string>
+    <string name="mainAct_PasswordTitle_PT">Palavra-Passe</string>
+    <string name="mainAct_PasswordBoxHint_PT">Introduza a sua palavra-passe</string>
+    <string name="mainAct_btnRegister_PT">Registar</string>
+    <string name="mainAct_btnLogin_PT">Entrar</string>
+    <string name="mainAct_ToastFields_PT">Todos os campos têm de ser preenchidos correctamente.</string>
+    <string name="mainAct_ToastErrorLog_PT">Erro logando na sua conta.</string>
+    <string name="mainAct_ToastSuccessLog_PT">Logado com sucesso!</string>
+
+    <string name="mainAct_InitSessionTitle_UK">Sign In</string>
+    <string name="mainAct_EmailTitle_UK">E-mail</string>
+    <string name="mainAct_EmailBoxHint_UK">Enter your email</string>
+    <string name="mainAct_PasswordTitle_UK">Password</string>
+    <string name="mainAct_PasswordBoxHint_UK">Enter your password</string>
+    <string name="mainAct_btnRegister_UK">Register</string>
+    <string name="mainAct_btnLogin_UK">Sign In</string>
+    <string name="mainAct_ToastFields_UK">All fields must be filled out correctly.</string>
+    <string name="mainAct_ToastErrorLog_UK">Error logging into account!</string>
+    <string name="mainAct_ToastSuccessLog_UK">Success authenticating account!</string>
+
+    <string name="regisAct_InitRegisterTitle_PT">Registo</string>
+    <string name="regisAct_btnBack_PT">Voltar</string>
+    <string name="regisAct_btnRegisterAccount_PT">Registar</string>
+    <string name="regisAct_EmailTitle_PT">E-mail</string>
+    <string name="regisAct_EmailBoxHint_PT">Introduza o seu email</string>
+    <string name="regisAct_PasswordTitle_PT">Crie a sua Palavra-Passe (Min 6 dígitos)</string>
+    <string name="regisAct_PasswordBoxHint_PT">Introduza a sua palavra-passe</string>
+    <string name="regisAct_SecondPasswordTitle_PT">Reintroduza a Palavra-Passe</string>
+    <string name="regisAct_SecondPasswordBoxHint_PT">Reintroduza a palavra-passe</string>
+    <string name="regisAct_AccountCreated_PT">Conta criada com sucesso!</string>
+    <string name="regisAct_ToastAccCreated_PT">Conta criada com sucesso!</string>
+    <string name="regisAct_ToastErrorRegis_PT">Erro registando nova conta!</string>
+    <string name="regisAct_ToastFields_PT">Success authenticating account!</string>
+    <string name="regisAct_ToastPwDig_PT">A tua password não possuí um mínimo de 6 dígitos.</string>
+    <string name="regisAct_ToastPwSame_PT">As passwords são diferentes.</string>
+
+    <string name="regisAct_InitRegisterTitle_UK">Register</string>
+    <string name="regisAct_btnBack_UK">Back</string>
+    <string name="regisAct_btnRegisterAccount_UK">Register</string>
+    <string name="regisAct_EmailTitle_UK">E-mail</string>
+    <string name="regisAct_EmailBoxHint_UK">Enter your email</string>
+    <string name="regisAct_PasswordTitle_UK">Create your Password (Min 6 digits)</string>
+    <string name="regisAct_PasswordBoxHint_UK">Type your password</string>
+    <string name="regisAct_SecondPasswordTitle_UK">Retype your password</string>
+    <string name="regisAct_SecondPasswordBoxHint_UK">Retype your password</string>
+    <string name="regisAct_AccountCreated_UK">Account created successfully!</string>
+    <string name="regisAct_ToastAccCreated_UK">Account created successfully!</string>
+    <string name="regisAct_ToastErrorRegis_UK">Error registering new account!</string>
+    <string name="regisAct_ToastFields_UK">Todos os campos têm de ser preenchidos correctamente.</string>
+    <string name="regisAct_ToastPwDig_UK">Your password does not have a minimum of 6 digits.</string>
+    <string name="regisAct_ToastPwSame_UK">Passwords are not the same.</string>
+
+    <string name="menuAct_MainMenuTitle_PT">Menu Principal</string>
+    <string name="menuAct_btnFeed_PT">Publicações</string>
+    <string name="menuAct_btnAddFeed_PT">Adicionar Publicação</string>
+    <string name="menuAct_btnGps_PT">GPS</string>
+    <string name="menuAct_btnProfile_PT">A minha conta</string>
+    <string name="menuAct_btnAboutUs_PT">Sobre nós</string>
+    <string name="menuAct_btnLogOut_PT">Sair</string>
+    <string name="menuAct_btnGallery_PT">Galeria</string>
+    <string name="menuAct_ToastLogOut_PT">Sessão terminada com sucesso</string>
+
+    <string name="menuAct_MainMenuTitle_UK">Main Menu</string>
+    <string name="menuAct_btnFeed_UK">Publications</string>
+    <string name="menuAct_btnAddFeed_UK">Add Publication</string>
+    <string name="menuAct_btnGps_UK">GPS</string>
+    <string name="menuAct_btnProfile_UK">My Account</string>
+    <string name="menuAct_btnAboutUs_UK">About Us</string>
+    <string name="menuAct_btnLogOut_UK">Log Out</string>
+    <string name="menuAct_btnGallery_UK">Gallery</string>
+    <string name="menuAct_ToastLogOut_UK">Session ended successfully</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="aboutAct_txtAboutTitle_PT">Sobre nós</string>
+    <string name="aboutAct_txtMainText_PT">A aplicação foi criada no ambito de ajudar pessoas ou até mesmo animais, foi criada por Ricardo Lucas e está em desenvolvimento!</string>
+
+    <string name="aboutAct_txtAboutTitle_UK">About Us</string>
+    <string name="aboutAct_txtMainText_UK">The application was created to help people or even animals, was created by Ricardo Lucas and is in development!</string>
+
+    <string name="addAct_btnCamera_PT">Câmera</string>
+    <string name="addAct_btnGallery_PT">Escolher outra imagem</string>
+    <string name="addAct_txtTitle_PT">Título</string>
+    <string name="addAct_txtDescription_PT">Descrição</string>
+    <string name="addAct_TitleBoxHint_PT">Insíra um título</string>
+    <string name="addAct_DescriptionBoxHint_PT">Insíra uma descrição</string>
+    <string name="addAct_txtCity_PT">Cidade</string>
+    <string name="addAct_CityBoxHint_PT">Insíra a cidade onde se encontra</string>
+    <string name="addAct_txtCountry_PT">País</string>
+    <string name="addAct_CountryBoxHint_PT">Insíra o país onde se encontra</string>
+    <string name="addAct_txtLatitude_PT">Latitude</string>
+    <string name="addAct_LatitudeBoxHint_PT">Insíra a Latitude de onde se encontra</string>
+    <string name="addAct_txtLongitude_PT">Longitude</string>
+    <string name="addAct_LongitudeBoxHint_PT">Insíra a longitude de onde se encontra</string>
+    <string name="addAct_btnGPS_PT">Obter localização usando o GPS</string>
+    <string name="addAct_btnConfirm_PT">Confirmar</string>
+    <string name="addAct_alertTitle_PT">Atenção</string>
+    <string name="addAct_alertText_PT">Prefere usar a câmera para tirar uma foto ou já possuí uma foto na galeria?</string>
+    <string name="addAct_alertCamera_PT">Usar câmera</string>
+    <string name="addAct_alertGallery_PT">Galeria</string>
+    <string name="addAct_ToastUploadProgress_PT">Carregamento em progresso</string>
+    <string name="addAct_ToastUpload_PT">Carregado com Sucesso!</string>
+
+    <string name="addAct_btnCamera_UK">Câmera</string>
+    <string name="addAct_btnGallery_UK">Pick another photo</string>
+    <string name="addAct_txtTitle_UK">Title</string>
+    <string name="addAct_txtDescription_UK">Description</string>
+    <string name="addAct_TitleBoxHint_UK">Enter a title</string>
+    <string name="addAct_DescriptionBoxHint_UK">Enter a description</string>
+    <string name="addAct_txtCity_UK">City</string>
+    <string name="addAct_CityBoxHint_UK">Enter the city where you are</string>
+    <string name="addAct_txtCountry_UK">Country</string>
+    <string name="addAct_CountryBoxHint_UK">Enter the country where you are</string>
+    <string name="addAct_txtLatitude_UK">Latitude</string>
+    <string name="addAct_LatitudeBoxHint_UK">Enter the latitude where you are</string>
+    <string name="addAct_txtLongitude_UK">Longitude</string>
+    <string name="addAct_LongitudeBoxHint_UK">Enter the longitude where you are</string>
+    <string name="addAct_btnGPS_UK">Get location using GPS</string>
+    <string name="addAct_btnConfirm_UK">Confirm</string>
+    <string name="addAct_alertTitle_UK">Attention</string>
+    <string name="addAct_alertText_UK">Do you prefer to use the camera to take a picture or do you already have the photo in the gallery?</string>
+    <string name="addAct_alertCamera_UK">Use camera</string>
+    <string name="addAct_alertGallery_UK">Gallery</string>
+    <string name="addAct_ToastUploadProgress_UK">Upload in progress</string>
+    <string name="addAct_ToastUpload_UK">Upload Successful</string>
+
+    <string name="feedAct_ToastGetLocation_PT">A Localização exata é:</string>
+    <string name="feedAct_ToastDelete_PT">Publicação removida com sucesso</string>
+    <string name="feedAct_ToastFailDelete_PT">Erro ao remover publicação, esta publicação não foi publicada por si.</string>
+
+    <string name="feedAct_ToastGetLocation_UK">The exact location is:</string>
+    <string name="feedAct_ToastDelete_UK">Publication successfully removed</string>
+    <string name="feedAct_ToastFailDelete_UK">Error removing post, this post was not published by you.</string>
+
+
+</resources>
